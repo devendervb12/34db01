@@ -1,0 +1,10 @@
+{
+  "companyInfo" : {
+        "name" : "SMAX",
+        "address" : {
+           "hno" : 103,
+           "street" : "V.V.Nagar"
+        }
+  }
+
+}
